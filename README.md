@@ -1,2 +1,2 @@
 # mi-primer-repositorio
-Repositorio creado siguiendo un curos de Git y GitHub de FreeCodeCamp
+Repositorio creado siguiendo un curso de Git y GitHub de FreeCodeCamp
